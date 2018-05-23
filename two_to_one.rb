@@ -4,8 +4,7 @@
 # "xyaabbbccccdefww" b = "xxxxyyyyabklmopq" longest(a, b) ->
 # "abcdefklmopqwxy" a = "abcdefghijklmnopqrstuvwxyz" longest(a, a) ->
 # "abcdefghijklmnopqrstuvwxyz" ```
-# https://www.codewars.com/kata/two-to-
-# one/train/ruby/5afb54441839f1b0bf00008d
+# https://www.codewars.com/kata/two-to-one/train/ruby/
 
 require "test/unit"
 

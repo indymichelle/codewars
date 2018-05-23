@@ -1,5 +1,6 @@
 # Given a "true" rectangle, return the smallest amount of squares contained within.
 # You will return an array with the size of each of the squares.
+# https://www.codewars.com/kata/rectangle-into-squares/train/ruby/
 
 require "test/unit"
 
